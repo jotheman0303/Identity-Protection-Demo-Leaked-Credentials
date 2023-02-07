@@ -3,3 +3,5 @@
 "AadSecret": "SJQ8Q~3dJ_exl4B6p.eRSnBg6uMTFCmX4Go.SbRM",
 "AadTenantDomain": "nedscaperlab.onmicrosoft.com",
 "AadTenantId": "316bec54-8d14-4882-8af3-ee5e61570603"
+
+#Top secret, do not share!
